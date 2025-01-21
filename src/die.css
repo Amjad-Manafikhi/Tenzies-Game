@@ -1,0 +1,15 @@
+.diceContainer button{
+    border:0px;
+    border-radius: 5px;;  
+    color:rgb(10,10,10);
+    background-color:white ;
+    -webkit-box-shadow: 0px 8px 4px -3px rgba(171,171,171,1);
+    -moz-box-shadow: 0px 8px 4px -3px rgba(171,171,171,1);
+    box-shadow: 0px 8px 4px -3px rgba(171,171,171,1);
+    width: 35px;
+    height:35px;
+    margin: 5px;
+    flex-grow:1;
+    font-family: "inter" , serif;
+    font-weight: bold;
+}
