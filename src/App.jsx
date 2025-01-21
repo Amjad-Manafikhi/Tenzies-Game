@@ -4,7 +4,7 @@ import "./App.css"
 import Die from"./die.jsx"
 import {nanoid} from "nanoid"
 import Confetti from './Confetti.jsx'
-import audioFile from "./audio.ogg";
+import audioFile from "./audio.mp3";
 
 export default function App(){
 
